@@ -190,6 +190,18 @@
         }
         ?>
             </table>
-        <button onclick="window.location.href='index.php';" class="button">Back to Project Form</button>
-    </body>
+        
+        <h3>Instructions</h3>
+        <p>The PCRA contains 64 questions. The questions are all given an equal percentage in the overall score. This tool is accompanied by the PCRA User Guide and an Excel spreadsheet that will tabulate the final score and rating automatically.</p>
+        <p>There are a few rules for completing the PCRA:</p>
+        <ul>
+            <li>Every question must be answered. If you are sure a question does not apply to your project, answer with the lowest score ("1") for that question;</li>
+            <li>If the answer to a question is unknown, answer with the highest score ("5") for that question; and</li>
+            <li>If you answer "1" to Question 2 in the "Project characteristics" section (3.1), questions in the "Procurement risks" section (3.3) should be answered with a "1" only.</li>
+        </ul>
+        <p>If you require more specific information regarding the purpose of the section or the significance of a particular rating, please refer to the User Guide. For the definitions of terms, please refer to the Glossary included at the end of the User Guide. Some of the terminology used in the assessment tool may not be a best fit for your organization. Please consult your departmental coordinator on how the terms are to be applied in your organization.</p>
+            <p>The tool is also available on-line. For further information on how to setup a user account and complete the assessment online, please contact your departmental coordinator or agency lead.</p>
+    
+            <button onclick="window.location.href='index.php';" class="button">Back to Project Form</button>
+        </body>
 </html>
